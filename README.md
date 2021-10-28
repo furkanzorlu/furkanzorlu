@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java,Android and Kotlin**
 
-- 📄 I'm 4th grade at [Eskisehir Technical University](Eskisehir Technical University)
+- 📄 I'm 4th grade at [Eskisehir Technical University]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
