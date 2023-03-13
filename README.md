@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Android and Backend techs**
+- 🌱 I’m currently learning **Backend techs**
 
-- 💬 Ask me about **Java,Android and Kotlin**
+- 💬 Ask me about **Java**
 
-- 📄 I'm 4th grade at Eskisehir Technical University
+- 📄 I graduated from Eskisehir Technical University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
